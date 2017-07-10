@@ -38,12 +38,4 @@ if data[0] == "#":
 
 tcp_client_socket.close
 
-#cond = 'Cliente desconectado do servidor.'
-#if data == '#exit':
-    #print(tcp_client_socket.cose)
 
-#byte_msg = message.encode('utf-8')
-#tcp_client_socket.send(byte_msg)
-#data = tcp_client_socket.recv(1024)
-
-#tcp_client_socket.close
